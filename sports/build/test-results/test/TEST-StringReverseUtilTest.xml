@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringReverseUtilTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-09-15T11:45:35" hostname="EUC-9054578" time="0.001">
+  <properties/>
+  <testcase name="testReverseStringForEmptyString" classname="StringReverseUtilTest" time="0.0"/>
+  <testcase name="testPositiveScenarios" classname="StringReverseUtilTest" time="0.0"/>
+  <testcase name="testReverseStringForNullString" classname="StringReverseUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
